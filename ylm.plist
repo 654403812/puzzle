@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download_ad_app.fengzhuan.org/package/5111/ios/yifulianmeng.ipa</string>
+					<string>http://download_app.fengzhuan.org/package/5111/ios/yifulianmeng.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download_ad_app.fengzhuan.org/package/5111/ios/yifulianmeng.png</string>
+					<string>http://download_app.fengzhuan.org/package/5111/ios/yifulianmeng.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download_ad_app.fengzhuan.org/package/5111/ios/yifulianmeng.png</string>
+					<string>http://download_app.fengzhuan.org/package/5111/ios/yifulianmeng.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
